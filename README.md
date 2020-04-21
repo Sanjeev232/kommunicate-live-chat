@@ -6,3 +6,4 @@ How to install this repo to your wordpress?
 * Step 3 : Go to Plugin settings, then Enter Your APP_ID from [kommunicate](https://www.kommunicate.io/) to enable chat widget.
 * Step 4 : Voila! Live chat is now active on your website.
 * Step 5 : Open the website, refresh it and check out the chat plugin. You will find it in the bottom-right corner.
+* Step 6 : You might need to clear cache if your using any cache plugin to see your updates.
